@@ -40,13 +40,6 @@ I'm interested in the space between **Artificial Intelligence** and **software e
 | [Project Two](https://github.com/Aman-Aryan11) | Explain the problem it solves or the value it provides. | `Technology` |
 | [Project Three](https://github.com/Aman-Aryan11) | Highlight another project, contribution, or experiment. | `Technology` | -->
 
-## GitHub activity
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman-Aryan11&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Aman Aryan's GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Aryan11&hide_border=true&theme=transparent" alt="Aman Aryan's contribution streak" />
-</p>
-
 ---
 
 <p align="center">
